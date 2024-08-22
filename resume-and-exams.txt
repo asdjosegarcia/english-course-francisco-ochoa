@@ -1,11 +1,11 @@
 ///////terms
-verbo: describe una accion ej: run/correr.
-advervios :(general) modifica/describe un verbo, adjetivo, otro advervio o incluso una oracion completa ej: He runs "quickly" ("quikli/rapidamente" describe el accion ), He is waiting "outside" ("outside" describe el lugar )
-adjetivos: describe un sustantivo o pronombre, ej: The "red" car is mine ("red" describe el auto)
-advervio de modo/adverbs of manner:  tipo de advervio que describe una accion ej: He runs "quikly"("quikli/rapidamente" describe el accion)
-advervios intensificadores: tipo de advervio que intencifican una accion (adjetivo/advervio 0,prety/quite 1,very 2,really3) dependiendo cual usemos la oracion tendra mas o menos intencidad, ej: they sing really beautiful
-verbos modales: se usan para expresar habilidad, posibilidad, permiso, obligación, sugerencias, y otras situaciones hipotéticas. Los verbos modales más comunes son: can, could, may, might, must, shall, should, will, y would.
-conjunciones: palabras que conectan palabas, fraces, oraciones o cláusulas dentro de una oración para unir ideas y establecer relaciones entre ellas.  conjunciones comunes: and,but,or,nor,for,so,yet
+verbo--> describe una accion ej: run/correr.
+advervios -->(general) modifica/describe un verbo, adjetivo, otro advervio o incluso una oracion completa ej: He runs "quickly" ("quikli/rapidamente" describe el accion ), He is waiting "outside" ("outside" describe el lugar )
+adjetivos --> describe un sustantivo o pronombre, ej: The "red" car is mine ("red" describe el auto)
+advervio de modo/adverbs of manner -->  tipo de advervio que describe una accion ej: He runs "quikly"("quikli/rapidamente" describe el accion)
+advervios intensificadores --> tipo de advervio que intencifican una accion (adjetivo/advervio 0,prety/quite 1,very 2,really3) dependiendo cual usemos la oracion tendra mas o menos intencidad, ej: they sing really beautiful
+verbos modales --> se usan para expresar habilidad, posibilidad, permiso, obligación, sugerencias, y otras situaciones hipotéticas. Los verbos modales más comunes son: can, could, may, might, must, shall, should, will, y would.
+conjunciones --> palabras que conectan palabas, fraces, oraciones o cláusulas dentro de una oración para unir ideas y establecer relaciones entre ellas.  conjunciones comunes: and,but,or,nor,for,so,yet
 
 
 //////guias
@@ -18,6 +18,10 @@ conjunciones: palabras que conectan palabas, fraces, oraciones o cláusulas dent
 can, could, may, might, must, shall, should, will, y would.
 -->no se deben repetir en una oracion ej: Incorrecto: "She can sing, and she can also dance." Correcto: "She can sing, and also dance."
 -->
+// olvido
+be--> ser o estar
+to be --> se usa para accion que va a ocurrir
+
 
 ///////exams
 //test 1:
