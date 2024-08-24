@@ -28,6 +28,7 @@ to be --> se usa para accion que va a ocurrir
 https://docs.google.com/forms/d/e/1FAIpQLSc56a94r1PQZbnHiTso5Ozy9icteQhXRyNSX_f1_LrCM6vePQ/viewscore?viewscore=AE0zAgBtecNcMglmr5DngnHm3tt70k_d-UDrh31plqdWJzsczH6sx9-1_e9jQ0xru0mioJA
 //test 2:
 https://docs.google.com/forms/d/e/1FAIpQLSe4_QWhhSZEtuz-4_D1gMV9dqvqQ4W1FBxTan6DezHmbCOmQg/viewscore?viewscore=AE0zAgAzulG9m8FJNgpHj-jv7yUH0FrLwCffls2MCEUXtbkMzht8QAmGresvlIIrrESBpqg
-
+//test 3:
+https://docs.google.com/forms/d/e/1FAIpQLSeST4_hkdKQlMcqLD-9N9enFRyfHEtpzHcddjpPhtusTsYfSQ/viewscore?viewscore=AE0zAgC9JBXZPI2TdvvPl32RTEgjSN4sVwr_zgfAVc8VZ8eWpYlsiGkGFq931HsJDPNUtz0
 //investigar
 por que la frase "juan can't play or  listen to music when he is studying" lleva to 
