@@ -9,15 +9,18 @@ conjunciones --> palabras que conectan palabas, fraces, oraciones o cláusulas d
 
 
 //////guias
-//cuando usar to:
-1) cuando 
-
 
 /////notas
 // verbos modales 
 can, could, may, might, must, shall, should, will, y would.
 -->no se deben repetir en una oracion ej: Incorrecto: "She can sing, and she can also dance." Correcto: "She can sing, and also dance."
--->
+
+//verbo infinitivo
+--> siempre llevan "to"+ verbo
+--> NO se usa despues de verbos modlaes "can","would"etc. ej:"i can swim" pero si con "would like" ej: "i would like to come with me" 
+--> para expresar propsositos o  intenciones de una accion: "i went to the library to study " "to study" indica por que fui 
+--> 
+
 // olvido
 be--> ser o estar
 to be --> se usa para accion que va a ocurrir
