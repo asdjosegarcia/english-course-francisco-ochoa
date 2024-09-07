@@ -2,6 +2,7 @@
 verbo--> describe una accion ej: run/correr.
 advervios -->(general) modifica/describe un verbo, adjetivo, otro advervio o incluso una oracion completa ej: He runs "quickly" ("quikli/rapidamente" describe el accion ), He is waiting "outside" ("outside" describe el lugar )
 adjetivos --> describe un sustantivo o pronombre, ej: The "red" car is mine ("red" describe el auto)
+sustantantivo--> palabra que se usa para nombrar personas , cosas, animales, ideas o conceptos ej: teacher, city, car, dog, love
 advervio de modo/adverbs of manner -->  tipo de advervio que describe una accion ej: He runs "quikly"("quikli/rapidamente" describe el accion)
 advervios intensificadores --> tipo de advervio que intencifican una accion (adjetivo/advervio 0,prety/quite 1,very 2,really3) dependiendo cual usemos la oracion tendra mas o menos intencidad, ej: they sing really beautiful
 verbos modales --> se usan para expresar habilidad, posibilidad, permiso, obligación, sugerencias, y otras situaciones hipotéticas. Los verbos modales más comunes son: can, could, may, might, must, shall, should, will, y would.
@@ -19,7 +20,17 @@ can, could, may, might, must, shall, should, will, y would.
 --> siempre llevan "to"+ verbo
 --> NO se usa despues de verbos modlaes "can","would"etc. ej:"i can swim" pero si con "would like" ej: "i would like to come with me" 
 --> para expresar propsositos o  intenciones de una accion: "i went to the library to study " "to study" indica por que fui 
---> 
+
+//pronombres
+indican que hace o quien recive la accion
+--> Sujeto/personales: Hacen o inician la accion                            (I,YOU,HE,SHE,IT,WE,THEY)  ej: i am jhon 
+--> Objeto: Reciven la accion que generan los pronombres personales/sujeto (ME,YOU,HIM,HER,IT,US,THEM) ej: this present is for us
+--> Posesivo:Inicia o recive una accion como pronombre prersonal u objeto (MINE,YOURS,HIS,HERS,ITS,OURS,THEIRS ) ej: that computer is mine, mine is here
+--> Reflexivo: el sujeto se trabaja a si mismo                (MYSELF,YOURSELF,YOURSELVES,HIMSEFL,HERLEF,ITSELF,OURSELVES,THEMSELVES) ej: i learn english by myself
+--> Relativo: (WHO,WHICT,THAT,WHOM,WHOSE)
+--> Demostrativo:cuando se usan cuando no tienen un objeto sino un sujeto (THIS,THAT,THESE,THOSE) ej: this is my friend
+--> Interrogativo: cuando no van acompañados de un sustantivo que lo modifica (WHO,WHOM,WHAT,WHOSE,WHICH ) ej: who is your mother?
+--> Indefinido: personas o cosas indefinidas (EVERYONE,ANYONE,SOMETHING,NOTHING,ALL,SOME etc.) ej:Everyone is happy
 
 // olvido
 be--> ser o estar
