@@ -35,7 +35,8 @@ indican que hace o quien recive la accion
 // olvido
 be--> ser o estar
 to be --> se usa para accion que va a ocurrir
-
+does --> se usa con he,she,it, todos los demas pronombres usan do
+as--> se usa para indicar el rol de una persona ej: he acts a team leader
 
 ///////exams
 //test 1:
