@@ -23,14 +23,20 @@ can, could, may, might, must, shall, should, will, y would.
 
 //pronombres
 indican que hace o quien recive la accion
---> Sujeto/personales: Hacen o inician la accion                            (I,YOU,HE,SHE,IT,WE,THEY)  ej: i am jhon 
---> Objeto: Reciven la accion que generan los pronombres personales/sujeto (ME,YOU,HIM,HER,IT,US,THEM) ej: this present is for us
---> Posesivo:Inicia o recive una accion como pronombre prersonal u objeto (MINE,YOURS,HIS,HERS,ITS,OURS,THEIRS ) ej: that computer is mine, mine is here
---> Reflexivo: el sujeto se trabaja a si mismo                (MYSELF,YOURSELF,YOURSELVES,HIMSEFL,HERLEF,ITSELF,OURSELVES,THEMSELVES) ej: i learn english by myself
---> Relativo: (WHO,WHICT,THAT,WHOM,WHOSE)
---> Demostrativo:cuando se usan cuando no tienen un objeto sino un sujeto (THIS,THAT,THESE,THOSE) ej: this is my friend
---> Interrogativo: cuando no van acompañados de un sustantivo que lo modifica (WHO,WHOM,WHAT,WHOSE,WHICH ) ej: who is your mother?
---> Indefinido: personas o cosas indefinidas (EVERYONE,ANYONE,SOMETHING,NOTHING,ALL,SOME etc.) ej:Everyone is happy
+> Sujeto/personales: Hacen o inician la accion                            (I,YOU,HE,SHE,IT,WE,THEY)  ej: i am jhon 
+> Objeto: Reciven la accion que generan los pronombres personales/sujeto (ME,YOU,HIM,HER,IT,US,THEM) ej: this present is for us
+> Posesivo:Inicia o recive una accion como pronombre prersonal u objeto (MINE,YOURS,HIS,HERS,ITS,OURS,THEIRS ) ej: that computer is mine, mine is here
+> Reflexivo: el sujeto se trabaja a si mismo                (MYSELF,YOURSELF,YOURSELVES,HIMSEFL,HERLEF,ITSELF,OURSELVES,THEMSELVES) ej: i learn english by myself
+> Relativo: (WHO,WHICT,THAT,WHOM,WHOSE)
+> Demostrativo:cuando se usan cuando no tienen un objeto sino un sujeto (THIS,THAT,THESE,THOSE) ej: this is my friend
+> Interrogativo: cuando no van acompañados de un sustantivo que lo modifica (WHO,WHOM,WHAT,WHOSE,WHICH ) ej: who is your mother?
+> Indefinido: personas o cosas indefinidas (EVERYONE,ANYONE,SOMETHING,NOTHING,ALL,SOME etc.) ej:Everyone is happy
+
+//tiempo
+how long: ¿cuanto tiempo?
+how long ago: ¿hace cuanto tiempo?
+How much time: ¿cuanto tiempo?
+Since: desde (momentos de tiempo) 
 
 // olvido
 be--> ser o estar
@@ -38,7 +44,9 @@ to be --> se usa para accion que va a ocurrir
 does --> se usa con he,she,it, todos los demas pronombres usan do
 as--> se usa para indicar el rol de una persona ej: he acts a team leader
 while--> mientras/aunque, "a while": un rato," a little while": un ratito, "once in a while": de vez en cuando 
-for/ago--> "several": varios(as), "a cuple": un par, "almost": casi, "a few": Unos cuantos, "arround":al rededor de, "some": algunos(as) 
+for/ago-->por/hace "several": varios(as), "a cuple": un par, "almost": casi, "a few": Unos cuantos, "arround":al rededor de, "some": algunos(as) 
+since--> desde (tiempo)
+from--> desde (lugar)
 
 ///////exams
 //test 1:
@@ -54,3 +62,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSda7u2LeuXsMWnBIBfQOdQ1jdoooMiGOS8XytQn
 https://forvo.com/ //esta web nos muestra un audio con la pronunciacion de las palabras
 //investigar
 por que la frase "juan can't play or  listen to music when he is studying" lleva to 
+	
