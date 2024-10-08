@@ -44,10 +44,10 @@ to be --> se usa para accion que va a ocurrir
 does --> se usa con he,she,it, todos los demas pronombres usan do
 as--> se usa para indicar el rol de una persona ej: he acts a team leader
 while--> mientras/aunque, "a while": un rato," a little while": un ratito, "once in a while": de vez en cuando 
-for/ago-->por/hace "several": varios(as), "a cuple": un par, "almost": casi, "a few": Unos cuantos, "arround":al rededor de, "some": algunos(as) 
-since--> desde (tiempo)
+for/ago-->por(duracion en el tiempo)/hace(CUANDO en el tiempo) "several": varios(as), "a cuple": un par, "almost": casi, "a few": Unos cuantos, "arround":al rededor de, "some": algunos(as) 
+since--> desde (des que momento en el tiempo)
 from--> desde (lugar)
-could-->
+could--> podria/podia
 ///////exams
 //test 1:
 https://docs.google.com/forms/d/e/1FAIpQLSc56a94r1PQZbnHiTso5Ozy9icteQhXRyNSX_f1_LrCM6vePQ/viewscore?viewscore=AE0zAgBtecNcMglmr5DngnHm3tt70k_d-UDrh31plqdWJzsczH6sx9-1_e9jQ0xru0mioJA
@@ -57,6 +57,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4_QWhhSZEtuz-4_D1gMV9dqvqQ4W1FBxTan6D
 https://docs.google.com/forms/d/e/1FAIpQLSeST4_hkdKQlMcqLD-9N9enFRyfHEtpzHcddjpPhtusTsYfSQ/viewscore?viewscore=AE0zAgC9JBXZPI2TdvvPl32RTEgjSN4sVwr_zgfAVc8VZ8eWpYlsiGkGFq931HsJDPNUtz0
 //test 4:
 https://docs.google.com/forms/d/e/1FAIpQLSda7u2LeuXsMWnBIBfQOdQ1jdoooMiGOS8XytQn5O78qQ4EHA/viewscore?viewscore=AE0zAgAmRZtPiP5n6gBpsvdM5KeSh9_iLrCBOwzIzr4Xu559mq8KqnHpkfZDLdh13FJOyR0
+//test 5:
+https://docs.google.com/forms/d/e/1FAIpQLScp4N95V5ELMKl_5bX7dvs6Jm-xzLF9GBJxcA_0CxQBnxYdyg/viewscore?viewscore=AE0zAgB2Zq-Gdafdacp6ENxYANIIi7rWlCUDaTM6qT9DkeQfJiU3BZbU9z0cuX77xs0g1rY
 
 ///////links
 https://forvo.com/ //esta web nos muestra un audio con la pronunciacion de las palabras
