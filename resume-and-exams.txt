@@ -38,6 +38,14 @@ how long ago: ¿hace cuanto tiempo?
 How much time: ¿cuanto tiempo?
 Since: desde (momentos de tiempo) 
 
+//pasado simple
+verbos regualres: terminan en ED ej: He  closed the door
+verbos irregualres: pueden cambiar su forma al completo  ej:
+was--> ser o estar i,he,she,it  en pasado ej: she was mi girlfriend
+were--> ser o estar you we they  en pasado ej: they were sepacking english 
+did--> pasado de do/does que no usen to be, unicamente para negativas e interrogativas ej: he didn't close the dor/ did he close the dor?
+			
+
 // olvido
 be--> ser o estar
 to be --> se usa para accion que va a ocurrir
@@ -48,6 +56,8 @@ for/ago-->por(duracion en el tiempo)/hace(CUANDO en el tiempo) "several": varios
 since--> desde (des que momento en el tiempo)
 from--> desde (lugar)
 could--> podria/podia
+
+
 ///////exams
 //test 1:
 https://docs.google.com/forms/d/e/1FAIpQLSc56a94r1PQZbnHiTso5Ozy9icteQhXRyNSX_f1_LrCM6vePQ/viewscore?viewscore=AE0zAgBtecNcMglmr5DngnHm3tt70k_d-UDrh31plqdWJzsczH6sx9-1_e9jQ0xru0mioJA
