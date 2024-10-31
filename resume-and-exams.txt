@@ -7,6 +7,8 @@ advervio de modo/adverbs of manner -->  tipo de advervio que describe una accion
 advervios intensificadores --> tipo de advervio que intencifican una accion (adjetivo/advervio 0,prety/quite 1,very 2,really3) dependiendo cual usemos la oracion tendra mas o menos intencidad, ej: they sing really beautiful
 verbos modales --> se usan para expresar habilidad, posibilidad, permiso, obligación, sugerencias, y otras situaciones hipotéticas. Los verbos modales más comunes son: can, could, may, might, must, shall, should, will, y would.
 conjunciones --> palabras que conectan palabas, fraces, oraciones o cláusulas dentro de una oración para unir ideas y establecer relaciones entre ellas.  conjunciones comunes: and,but,or,nor,for,so,yet
+presente perfecto--> se usa para acciones que tienen relacion con el presente
+pasado simple--> se usa para acciones que NO tienen relacion con el presente
 
 
 //////guias
@@ -44,6 +46,7 @@ verbos irregualres: pueden cambiar su forma al completo  ej:
 was--> ser o estar i,he,she,it  en pasado ej: she was mi girlfriend
 were--> ser o estar you we they  en pasado ej: they were sepacking english 
 did--> pasado de do/does que no usen to be, unicamente para negativas e interrogativas ej: he didn't close the dor/ did he close the dor?
+
 			
 
 // olvido
